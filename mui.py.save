@@ -1,0 +1,6 @@
+a = 14
+b = 32
+while(b<=0x055)
+a=a+1
+b=b+46
+print(b)
